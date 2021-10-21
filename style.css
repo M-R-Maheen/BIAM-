@@ -31,3 +31,13 @@
 .navbar-color {
     background: #000000;
 }
+
+.box-one{
+    background-color: whitesmoke;
+    padding: 30px;
+}
+
+.text-box{
+    text-align: left;
+    border-radius: 20px;
+}
