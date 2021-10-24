@@ -46,5 +46,11 @@
     height: 200px;
     padding: 10px;
     color:black;
-    background-color: whitesmoke;
+    background-color: wheat;
+}
+
+.container {
+    text-align: center;
+    background-color:whitesmoke
+    padding: 5px;
 }
